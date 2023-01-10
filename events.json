@@ -1,0 +1,158 @@
+{
+  "current": [
+    {
+      "id": 54322,
+      "event": {
+        "home": {
+          "name": "Тотенхем",
+          "coefficient": 1
+        },
+        "away": {
+          "name": "Манчестер юнайтед",
+          "coefficient": 2
+        },
+        "draw": {
+          "name": "Ничью",
+          "coefficient": 1.5
+        }
+      },
+      "date": {
+        "when": "Проходит ",
+        "time": "сейчас"
+      }
+    },
+    {
+      "id": 54324,
+      "event": {
+        "home": {
+          "name": "Бавария",
+          "coefficient": 1
+        },
+        "away": {
+          "name": "Манчестер юнайтед",
+          "coefficient": 2
+        },
+        "draw": {
+          "name": "Ничью",
+          "coefficient": 1.5
+        }
+      },
+      "date": {
+        "when": "Проходит ",
+        "time": "сейчас"
+      }
+    }
+  ],
+  "future": [
+    {
+      "id": 223,
+      "event": {
+        "home": {
+          "name": "Рефал Мадрит",
+          "coefficient": 1
+        },
+        "away": {
+          "name": "Батэ",
+          "coefficient": 2
+        },
+        "draw": {
+          "name": "Ничью",
+          "coefficient": 3
+        }
+      },
+      "date": {
+        "when": "Сегодня",
+        "time": "19:00"
+      }
+    },
+    {
+      "id": 2323,
+      "event": {
+        "home": {
+          "name": "Ювентус",
+          "coefficient": 4
+        },
+        "away": {
+          "name": "Бавария",
+          "coefficient": 2
+        },
+        "draw": {
+          "name": "Ничью",
+          "coefficient": 1
+        }
+      },
+      "date": {
+        "when": "15 февраля",
+        "time": "15:00"
+      }
+    },
+    {
+      "id": 2353,
+      "event": {
+        "home": {
+          "name": "Манчестер юнайтед",
+          "coefficient": 1
+        },
+        "away": {
+          "name": "Тотенхем",
+          "coefficient": 2
+        },
+        "draw": {
+          "name": "Ничью",
+          "coefficient": 1.5
+        }
+      },
+      "date": {
+        "when": "23 февраля",
+        "time": "21:00"
+      }
+    }
+  ],
+  "bids": [
+    {
+      "id": "431a3bee-7f64-4aa6-8d27-9e283463ab2e",
+      "event": {
+        "eventid": 1,
+        "match": "Тотенхем - Манчестер юнайтед",
+        "win": "Тотенхем",
+        "coefficient": 1
+      }
+    },
+    {
+      "id": "916e10f2-5e1c-4717-ad4d-1634a124ff8e",
+      "event": {
+        "eventid": 5442,
+        "match": "Тотенхем - Манчестер юнайтед",
+        "win": "Ничью",
+        "coefficient": 1.5
+      }
+    },
+    {
+      "id": "971dd924-b23e-4f8d-83bb-d7ade8dc7a4c",
+      "event": {
+        "eventid": 5442,
+        "match": "Тотенхем - Манчестер юнайтед",
+        "win": "Ничью",
+        "coefficient": 1.5
+      }
+    },
+    {
+      "id": "e2620137-1eca-46a7-ad2a-c73e167b3dd1",
+      "event": {
+        "eventid": 5442,
+        "match": "Тотенхем - Манчестер юнайтед",
+        "win": "Ничью",
+        "coefficient": 1.5
+      }
+    },
+    {
+      "id": "211feac8-c4b8-4349-bb1f-5e2be1597a87",
+      "event": {
+        "eventid": 223,
+        "match": "Рефал Мадрит - Батэ",
+        "win": "Ничью",
+        "coefficient": 3
+      }
+    }
+  ]
+}
